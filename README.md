@@ -70,7 +70,7 @@ Command:
 net user hacker Password123! /add
 ```
 
-![User Creation](screenshots/05-Attack-Simulations/05-user-account-created.png)
+![User Creation](screenshots/05-Attack-Simulations/01-powershell-user-creation-attack.png)
 
 ### PowerShell Execution Policy Bypass
 
@@ -191,10 +191,10 @@ The lab also provided hands-on experience troubleshooting:
 ## Screenshots
 
 ### Wazuh Dashboard
-![Dashboard](screenshots/07-Dashboard-Views/01-wazuh-overview-dashboard.png)
+![Dashboard](screenshots/07-Dashboard-Views/01-main-wazuh-dashboard.png)
 
 ### Threat Hunting Events
-![Threat Hunting](screenshots/04-Threat-Hunting/02-sysmon-threat-hunting-events.png)
+![Threat Hunting](screenshots/04-Threat-Hunting/02-expanded-discovery-event-details.png)
 
 ### Detection Events
 ![Detection Events](screenshots/06-Detection-Events/01-alert-severity-overview.png)
